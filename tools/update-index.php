@@ -1,8 +1,8 @@
-#!/usr/bin/php5 -q
 <?php
 
 // Init scripts, library locations, and binaries
-$locum_lib_dir = '/usr/local/lib/locum';
+//$locum_lib_dir = '/usr/local/lib/locum';
+$locum_lib_dir = '/var/www/sites/default/modules/sopac_components/locum/locum';
 $insurge_lib_dir = '/usr/local/lib/insurge';
 $sphinx_indexer = '/usr/local/sphinx/bin/indexer';
 
